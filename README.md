@@ -3,7 +3,7 @@
 **drip** has goal which simple image recognition with data base system with php. This prject inspired Optical Character Recognition(OCR), which could be found at [Wikipedia: Optical character recognition](https://en.wikipedia.org/wiki/Optical_character_recognition) or real time on screen translation.
 
 # Concept
-![alt test](/Concept/Pictures/Concept.jpg)
+![alt test](/Concept/Pictures/Concept.png)
  When a image uploaded by user(in User Interface), image process module digitalize the
 image and compare that with saved **Diffusioned Data** in data base then, make decision
 which is the most appropriate one(**Tag**). After make decision, the user interface system
