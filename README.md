@@ -1,8 +1,6 @@
 # drip
  This site stands for term project of internet programming project in Univercity of Seoul.
-**drip** has goal which simple image recognition with data base system with php. This pr
-ject inspired Optical Character Recognition(OCR), which could be found at [Wikipedia: Op
-tical character recognition](https://en.wikipedia.org/wiki/Optical_character_recognition) or real time on screen translation.
+**drip** has goal which simple image recognition with data base system with php. This prject inspired Optical Character Recognition(OCR), which could be found at [Wikipedia: Optical character recognition](https://en.wikipedia.org/wiki/Optical_character_recognition) or real time on screen translation.
 
 # Concept
 ![alt test](/Concept/Pictures/concept.jpg)
