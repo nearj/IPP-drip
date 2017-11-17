@@ -5,8 +5,8 @@
 # prerequisite
 Recognition
 ---
-..*[TensorFlow installation instructions](https://www.tensorflow.org/install/)
-..*[Keras installation guide](https://keras.io/#guiding-principles)
+*[TensorFlow installation instructions](https://www.tensorflow.org/install/)
+*[Keras installation guide](https://keras.io/#guiding-principles)
 
 
 # TODO List
