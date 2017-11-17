@@ -2,11 +2,10 @@
  This site stands for term project of internet programming project in Univercity of Seoul.
 **drip** has goal which simple image recognition with data base system with php. This prject inspired Optical Character Recognition(OCR), which could be found at [Wikipedia: Optical character recognition](https://en.wikipedia.org/wiki/Optical_character_recognition) or real time on screen translation.
 
-# prerequisite
-Recognition
----
-*[TensorFlow installation instructions](https://www.tensorflow.org/install/)
-*[Keras installation guide](https://keras.io/#guiding-principles)
+# Prerequisite
+--Recognition--
+ * [TensorFlow installation instructions](https://www.tensorflow.org/install/)
+ * [Keras installation guide](https://keras.io/#guiding-principles)
 
 
 # TODO List
