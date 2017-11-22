@@ -14,26 +14,22 @@
 
 # KeyWords
 * Image recognition
-- * Deep learning
----
+  * Deep learning
 * Image preprocessing - decaprecated, only white and black.
-- Contexture recognition
----
+  - Contexture recognition
 * Lexical analyzer - Lex
 * Syntax analyzer - Parser
-- BNF
- - Identifier / Variable
- - Number
- - Operator
- - Operand
-- * Infix to Postfix
----
+  - BNF
+  	- Identifier / Variable
+	- Number
+	- Operator
+	- Operand
+  * Infix to Postfix
 * Function Generator
- - First class function
- - High order function
----
+  - First class function
+  - High order function
 * Evaluation
- - Function chaining
+  - Function chaining
 Additional feature
 ---
 * Learning process
