@@ -30,10 +30,10 @@
   - High order function
 * Evaluation
   - Function chaining
-Additional feature
 ---
-* Learning process
-* Operator addition / definition
+Additional feature
+  * Learning process
+  * Operator addition / definition
 
 # Concept
 ![alt test](/Concept/Pictures/Concept.png)
